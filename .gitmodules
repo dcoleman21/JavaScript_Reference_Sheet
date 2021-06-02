@@ -4,3 +4,6 @@
 [submodule "Variables,"]
 	path = Variables,
 	url = https://gist.github.com/dcoleman21/dfbcb95da704e85c9bc2568c2cd06456
+[submodule "dog_years_exercise"]
+	path = dog_years_exercise
+	url = https://gist.github.com/dcoleman21/208b9618352275a4dd7f8015e40834fc
