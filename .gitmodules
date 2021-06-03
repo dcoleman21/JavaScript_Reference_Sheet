@@ -10,3 +10,6 @@
 [submodule "understanding_conditional_statements"]
 	path = understanding_conditional_statements
 	url = https://gist.github.com/dcoleman21/d82a45fc1ef9af044c19551a4ce64cdb
+[submodule "magic_eight_ball_example"]
+	path = magic_eight_ball_example
+	url = https://gist.github.com/dcoleman21/8e09fe6175fba3d09ed2365616810f7e
