@@ -7,3 +7,6 @@
 [submodule "dog_years_exercise"]
 	path = dog_years_exercise
 	url = https://gist.github.com/dcoleman21/208b9618352275a4dd7f8015e40834fc
+[submodule "understanding_conditional_statements"]
+	path = understanding_conditional_statements
+	url = https://gist.github.com/dcoleman21/d82a45fc1ef9af044c19551a4ce64cdb
