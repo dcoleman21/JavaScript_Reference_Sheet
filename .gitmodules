@@ -13,3 +13,6 @@
 [submodule "magic_eight_ball_example"]
 	path = magic_eight_ball_example
 	url = https://gist.github.com/dcoleman21/8e09fe6175fba3d09ed2365616810f7e
+[submodule "understanding_functions"]
+	path = understanding_functions
+	url = https://gist.github.com/dcoleman21/8b29af8e9bb76a3972f2c25480f199f1
