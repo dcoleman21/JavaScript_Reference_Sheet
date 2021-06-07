@@ -19,3 +19,6 @@
 [submodule "rock_paper_scissors_game"]
 	path = rock_paper_scissors_game
 	url = https://gist.github.com/dcoleman21/024318173ecd7ed251fabd42f40e743f
+[submodule "understanding_scope"]
+	path = understanding_scope
+	url = https://gist.github.com/dcoleman21/1371d02e62abc4bae96bf7762489b425
