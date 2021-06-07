@@ -16,3 +16,6 @@
 [submodule "understanding_functions"]
 	path = understanding_functions
 	url = https://gist.github.com/dcoleman21/8b29af8e9bb76a3972f2c25480f199f1
+[submodule "rock_paper_scissors_game"]
+	path = rock_paper_scissors_game
+	url = https://gist.github.com/dcoleman21/024318173ecd7ed251fabd42f40e743f
