@@ -22,3 +22,6 @@
 [submodule "understanding_scope"]
 	path = understanding_scope
 	url = https://gist.github.com/dcoleman21/1371d02e62abc4bae96bf7762489b425
+[submodule "understanding_arrays_or_lists"]
+	path = understanding_arrays_or_lists
+	url = https://gist.github.com/dcoleman21/db6bd1aa509a5089598546a2b27cde47
