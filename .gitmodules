@@ -25,3 +25,6 @@
 [submodule "understanding_arrays_or_lists"]
 	path = understanding_arrays_or_lists
 	url = https://gist.github.com/dcoleman21/db6bd1aa509a5089598546a2b27cde47
+[submodule "understanding_loops"]
+	path = understanding_loops
+	url = https://gist.github.com/dcoleman21/35436c6fd3bab8032c05feb8bed5d719
