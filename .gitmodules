@@ -31,3 +31,6 @@
 [submodule "whale_talk_looping_example"]
 	path = whale_talk_looping_example
 	url = https://gist.github.com/dcoleman21/22432e4a26f399146222ff2002a486f8
+[submodule "understanding_higher_order_functions"]
+	path = understanding_higher_order_functions
+	url = https://gist.github.com/dcoleman21/09877327e76f3bea9f58bf7589baaa9d
