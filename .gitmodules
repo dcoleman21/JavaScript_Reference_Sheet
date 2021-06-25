@@ -34,3 +34,6 @@
 [submodule "understanding_higher_order_functions"]
 	path = understanding_higher_order_functions
 	url = https://gist.github.com/dcoleman21/09877327e76f3bea9f58bf7589baaa9d
+[submodule "understanding_iterators"]
+	path = understanding_iterators
+	url = https://gist.github.com/dcoleman21/a220fd33cb034e53a2b1d54500a3f19e
