@@ -40,3 +40,6 @@
 [submodule "building_a_linter"]
 	path = building_a_linter
 	url = https://gist.github.com/dcoleman21/6d28de44ef7d29296a1a4046cd6fc363
+[submodule "understanding_objects"]
+	path = understanding_objects
+	url = https://gist.github.com/dcoleman21/4ced3e861e1b35d84f19085b32a2c01d
